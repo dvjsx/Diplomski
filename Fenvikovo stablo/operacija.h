@@ -1,0 +1,5 @@
+#ifndef ENUM_OPERACIJA_H
+#define ENUM_OPERACIJA_H
+enum Operacija {AZURIRANJE=0,KUMULATIVNA_SUMA};
+#endif // !ENUM_OPERACIJA_H
+
